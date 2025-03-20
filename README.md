@@ -44,7 +44,7 @@ Here are some screenshots of the project:
 
 
 
-![Ana Sayfa Görüntüsü](MyPortfolioUdemy1.jpeg)
+![Ana Sayfa Görüntüsü](master/MyPortfolioUdemy1.jpeg)
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/budzplt.jpg)
 
