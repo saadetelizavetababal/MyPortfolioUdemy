@@ -44,7 +44,7 @@ Here are some screenshots of the project:
 
 
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/gey5qbq.jpg)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/rgejmeu.jpg)
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/budzplt.jpg)
 
