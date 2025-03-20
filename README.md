@@ -44,7 +44,7 @@ Here are some screenshots of the project:
 
 
 
-![Uygulama Ekran Görüntüsü](https://ibb.co/8DXWYFBR)
+![Ana Sayfa Görüntüsü](desktop/MyPortfolioUdemy1.jpeg)
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/budzplt.jpg)
 
