@@ -46,14 +46,14 @@ Here are some screenshots of the project:
 
 ![Ana Sayfa Görüntüsü](MyPortfolioUdemy1.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/budzplt.jpg)
+![Ana Sayfa Görüntüsü](MyPortfolioUdemy2.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/t42ft8i.jpg)
+![Ana Sayfa Görüntüsü](MyPortfolioUdemy3.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/lqxyq25.jpg)
+![Ana Sayfa Görüntüsü](MyPortfolioUdemy4.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/ndksjvp.jpg)
+![Ana Sayfa Görüntüsü](MyPortfolioUdemy5.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/qkpahaq.jpg)
+![Ana Sayfa Görüntüsü](MyPortfolioUdemy6.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/apdaxz7.jpg)
+![Ana Sayfa Görüntüsü](MyPortfolioUdemy7.jpg)
